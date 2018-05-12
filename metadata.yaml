@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21329#The-Nabob-Vol.-2--of-2-
 gutenberg_issued: '2007-05-05'
 gutenberg_type: Text
 identifiers:
